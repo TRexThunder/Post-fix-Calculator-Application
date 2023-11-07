@@ -5,7 +5,7 @@ arrays and doubly-linked lists. The project involved encapsulation in classes an
 - stack_a: using fixed-sized arrays
 - stack_b: using dynamically-sized arrays
 - stack_c: using doubly linked lists
-## Description of Commands:
+## Description of Commands
 1. void push(int data): Push the argument on the stack
 1. int pop(): Pop and return the top element of the stack
 1. int get_element_from_top(int idx): Return the element at index idx from the top

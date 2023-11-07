@@ -1,6 +1,6 @@
 # Post-fix-Calculator-Application
 Course Project (COL106) under Prof. Subodh Sharma [August 2023]: Designed a robust post-fix notation calculator using the Stack data structure implemented using fixed arrays, dynamic
-arrays and doubly-linked lists. The project involved encapsulation in classes and tokenisation.
+arrays and doubly-linked lists. The project involved encapsulation in classes, tokenisation and error handling.
 ## Methods of Stack Implementation
 - stack_a: using fixed-sized arrays
 - stack_b: using dynamically-sized arrays
